@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+}
+
+
+div{
+
+    width: 100%;
+    background-color: aqua;
+    border: 1px solid black;   
+}
+.scritta-boolean{
+    margin-top: 40px;
+    margin-bottom: 20px;
+    width: 300px;
+}
