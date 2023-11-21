@@ -21,9 +21,16 @@ p{
     background-repeat: repeat-x;
    
 }
+.titolo-data{
+    width: 100%;
+}
 p1{
     color: grey;
 }
 p2{
     color: aqua;
+}
+.tim{
+   
+    display: inline-block;
 }
